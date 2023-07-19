@@ -15,4 +15,4 @@ int add(int, int);
 int print_to_98(int n);
 void print_times_table(int n);
 
-#endif
+#endif /* main_h */
